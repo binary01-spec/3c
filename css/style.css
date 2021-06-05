@@ -1,6 +1,10 @@
 html,body{
 height: 100%
 }
+body{
+margin:0;
+}
+
 .maindiv{
   height:100% ;
   display: flex;
