@@ -1,0 +1,149 @@
+html,body{
+height: 100%
+}
+.maindiv{
+  height:100% ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+img{
+  margin: 2.5em 0  0 2.5em ;
+}
+h2{
+  text-transform: uppercase;
+  font-family: 'Big Shoulders Display', cursive;
+  color: #f2f2f2;
+  font-size: 2.5em;
+    margin-left: 40px;
+}
+p{
+  font-family: 'Lexend Deca', sans-serif;
+  color: #ffffff;
+  margin-left: 40px;
+width:14.0625em;
+  font-size: 0.9375em;
+  line-height: 1.875em;
+  margin-bottom: 0
+
+}
+
+
+.div1{
+background-color:#E38826;
+height: 31.25em;
+width:18.75em;
+border-radius: 0.625em 0 0 0.625em;
+
+}
+.div2{
+    background-color: #006970;
+    height: 31.25em;
+    width:18.75em;
+}
+.div3{
+  background-color: #004241;
+  height: 31.25em;
+  width:18.75em;
+  border-radius: 0 0.625em 0.625em 0;
+}
+.but1 {
+   -webkit-border-radius: 59px;
+   -moz-border-radius: 59px;
+   border-radius: 59px;
+   height: 20px;
+   line-height: 20px;
+   color: #E38826;
+   font-family: Arial;
+   width: 118px;
+   font-size: 15px;
+   font-weight: 200;
+   padding: 12px;
+   background-color: #FFFFFF;
+   border: solid #FFFFFF 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   position: relative;
+   left:40px;
+   top: 70px;
+
+}
+
+.but1:hover {
+   background: #E38826;
+   border: solid #FFFFFF 1px;
+  color: #ffffff;
+   -webkit-border-radius: 59px;
+   -moz-border-radius: 59px;
+   border-radius: 59px;
+
+
+}
+.but2 {
+   -webkit-border-radius: 59px;
+   -moz-border-radius: 59px;
+   border-radius: 59px;
+   height: 20px;
+   line-height: 20px;
+   color: #006970;
+   font-family: Arial;
+   width: 118px;
+   font-size: 15px;
+   font-weight: 200;
+   padding: 12px;
+   background-color: #FFFFFF;
+   border: solid #FFFFFF 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   position: relative;
+   left:40px;
+ top: 70px;
+}
+
+.but2:hover {
+   background: #006970;
+   border: solid #FFFFFF 1px;
+  color: #ffffff;
+   -webkit-border-radius: 59px;
+   -moz-border-radius: 59px;
+   border-radius: 59px;
+
+
+}
+.but3 {
+   -webkit-border-radius: 59px;
+   -moz-border-radius: 59px;
+   border-radius: 59px;
+   height: 20px;
+   line-height: 20px;
+   color: #004241;;
+   font-family: Arial;
+   width: 118px;
+   font-size: 15px;
+   font-weight: 200;
+   padding: 12px;
+   background-color: #FFFFFF;
+   border: solid #FFFFFF 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   position: relative;
+   left:40px;
+ top: 70px;
+}
+
+.but3:hover {
+   background: #004241;;
+   border: solid #FFFFFF 1px;
+  color: #ffffff;
+   -webkit-border-radius: 59px;
+   -moz-border-radius: 59px;
+   border-radius: 59px;
+
+
+}
